@@ -9,7 +9,7 @@ console.log("Mid")
 function one() {
     console.log(name);
 
-    var name = AARAVS
+    var name = "AARAVS"
     console.log(name);
 
     three()
