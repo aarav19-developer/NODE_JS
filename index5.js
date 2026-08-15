@@ -122,7 +122,7 @@ server.listen(418,()=>{
 });
 
 
-// NOTE:  Web bowser by default GET request send krta h
+// NOTE:  Web bowser by default GET request send krta h.
 
 
 
